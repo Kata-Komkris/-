@@ -1,0 +1,1 @@
+[{"id":"d751f939.4e4048","type":"http request","z":"ff665632.2c7bc8","name":"line notify","method":"POST","ret":"txt","paytoqs":"ignore","url":"https://notify-api.line.me/api/notify","tls":"","persist":false,"proxy":"","authType":"","x":280,"y":700,"wires":[[]]}]
